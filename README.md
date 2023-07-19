@@ -1,2 +1,2 @@
-# leadnews-web
-头条项目后端
+# leadnews-front
+头条项目前端
