@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.reactivex:rxnetty-contexts:0.4.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../3、黑马程序员Java微服务项目《黑马头条》/day01-环境搭建、SpringCloud微服务(注册发现、网关)/资料/maven仓库/respository_new/io/reactivex/rxnetty-contexts/0.4.9/rxnetty-contexts-0.4.9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../3、黑马程序员Java微服务项目《黑马头条》/day01-环境搭建、SpringCloud微服务(注册发现、网关)/资料/maven仓库/respository_new/io/reactivex/rxnetty-contexts/0.4.9/rxnetty-contexts-0.4.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../3、黑马程序员Java微服务项目《黑马头条》/day01-环境搭建、SpringCloud微服务(注册发现、网关)/资料/maven仓库/respository_new/io/reactivex/rxnetty-contexts/0.4.9/rxnetty-contexts-0.4.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

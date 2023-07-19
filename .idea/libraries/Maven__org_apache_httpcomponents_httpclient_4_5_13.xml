@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.httpcomponents:httpclient:4.5.13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../3、黑马程序员Java微服务项目《黑马头条》/day01-环境搭建、SpringCloud微服务(注册发现、网关)/资料/maven仓库/respository_new/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../3、黑马程序员Java微服务项目《黑马头条》/day01-环境搭建、SpringCloud微服务(注册发现、网关)/资料/maven仓库/respository_new/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../3、黑马程序员Java微服务项目《黑马头条》/day01-环境搭建、SpringCloud微服务(注册发现、网关)/资料/maven仓库/respository_new/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

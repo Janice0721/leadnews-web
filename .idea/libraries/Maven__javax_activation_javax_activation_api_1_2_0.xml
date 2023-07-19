@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: javax.activation:javax.activation-api:1.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../3、黑马程序员Java微服务项目《黑马头条》/day01-环境搭建、SpringCloud微服务(注册发现、网关)/资料/maven仓库/respository_new/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../3、黑马程序员Java微服务项目《黑马头条》/day01-环境搭建、SpringCloud微服务(注册发现、网关)/资料/maven仓库/respository_new/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../3、黑马程序员Java微服务项目《黑马头条》/day01-环境搭建、SpringCloud微服务(注册发现、网关)/资料/maven仓库/respository_new/javax/activation/javax.activation-api/1.2.0/javax.activation-api-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
